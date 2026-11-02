@@ -1,0 +1,7 @@
+Pillow==12.3.0
+edge-tts==7.3.1
+mutagen==1.48.1
+imageio-ffmpeg==0.6.0
+gTTS==2.5.4
+numpy>=1.26,<3
+onnxruntime>=1.23.1,<2

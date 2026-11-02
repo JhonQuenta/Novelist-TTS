@@ -1,0 +1,87 @@
+[
+  {
+    "path": "LICENSE",
+    "size": 15007,
+    "sha256": null
+  },
+  {
+    "path": "onnx/duration_predictor.onnx",
+    "size": 3700147,
+    "sha256": "c3eb91414d5ff8a7a239b7fe9e34e7e2bf8a8140d8375ffb14718b1c639325db"
+  },
+  {
+    "path": "onnx/text_encoder.onnx",
+    "size": 36416150,
+    "sha256": "c7befd5ea8c3119769e8a6c1486c4edc6a3bc8365c67621c881bbb774b9902ff"
+  },
+  {
+    "path": "onnx/tts.json",
+    "size": 8253,
+    "sha256": null
+  },
+  {
+    "path": "onnx/unicode_indexer.json",
+    "size": 277676,
+    "sha256": null
+  },
+  {
+    "path": "onnx/vector_estimator.onnx",
+    "size": 256534781,
+    "sha256": "883ac868ea0275ef0e991524dc64f16b3c0376efd7c320af6b53f5b780d7c61c"
+  },
+  {
+    "path": "onnx/vocoder.onnx",
+    "size": 101424195,
+    "sha256": "085de76dd8e8d5836d6ca66826601f615939218f90e519f70ee8a36ed2a4c4ba"
+  },
+  {
+    "path": "voice_styles/F1.json",
+    "size": 292046,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/F2.json",
+    "size": 292423,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/F3.json",
+    "size": 290794,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/F4.json",
+    "size": 291808,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/F5.json",
+    "size": 291479,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/M1.json",
+    "size": 291748,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/M2.json",
+    "size": 292055,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/M3.json",
+    "size": 290198,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/M4.json",
+    "size": 291522,
+    "sha256": null
+  },
+  {
+    "path": "voice_styles/M5.json",
+    "size": 291469,
+    "sha256": null
+  }
+]
